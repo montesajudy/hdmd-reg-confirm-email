@@ -1,0 +1,5 @@
+name = HDMD Registration Confirm Email Address
+description = Adds a confirm email address field under email address field on registration field.
+core = 7.x
+package = HDMD
+configure = admin/config/people/accounts

@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * Implements hook_uninstall().
+ */
+function hdmd_confirm_email_uninstall() {
+  variable_del('hdmd_confirm_email_option');
+}
