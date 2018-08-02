@@ -1,5 +1,5 @@
 # HDMD Registration Confirm Email
-Adds a confirm email address field under email address field on registration field
+Adds a confirm email address field under email address field on registration form.
 
 # Installation
 - Download, install and enable the module
