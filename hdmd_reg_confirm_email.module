@@ -50,8 +50,7 @@ function hdmd_reg_confirm_email_form_user_register_form_alter(&$form, &$form_sta
 
 /**
  * Custom validation function for user registration form
- *
- * @ingroup hdmd_reg_confirm_email_form_user_register_form_alter
+ * @see hdmd_reg_confirm_email_form_user_register_form_alter
  */
 function hdmd_reg_confirm_email_user_register_validate($form, &$form_state) {
   // If enabled, check to see whether e-mail address matches the confirm address.
